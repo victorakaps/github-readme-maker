@@ -4,6 +4,8 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/victorakaps)
 
+### https://github-readme-maker.herokuapp.com/
+
 Github Readme Maker is a cloud-enabled, mobile-ready, offline-storage, ReactJS powered HTML5 Markdown editor.
 
   - Type some Markdown on the left
@@ -47,7 +49,7 @@ $ npm run build
 ### Todos
 
  - Write MORE Templates
- - Add Night Mode
+ - Toggle Night Mode
 
 License
 ----
