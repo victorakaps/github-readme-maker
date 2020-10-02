@@ -6,6 +6,8 @@
 
 ### https://github-readme-maker.herokuapp.com/
 
+![alt github-readme-maker][github-readme-maker.gif]
+
 Github Readme Maker is a cloud-enabled, mobile-ready, offline-storage, ReactJS powered HTML5 Markdown editor.
 
   - Type some Markdown on the left
