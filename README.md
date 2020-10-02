@@ -11,9 +11,9 @@
 
 ### Github Readme Maker is a cloud-enabled, mobile-ready, offline-storage, ReactJS powered HTML5 Markdown editor.
 
-  - Type some Markdown on the left
-  - See HTML in the right
-  - Magic 
+       - Type some Markdown on the left
+       - See HTML in the right
+       - Magic 
 
 ## New Features!
 
