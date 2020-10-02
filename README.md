@@ -9,7 +9,7 @@
 <img align="left" src="https://i.imgur.com/Rc6o3rA.gif" width="600px"/>
 
 
-### Github Readme Maker is a cloud-enabled, mobile-ready, offline-storage, ReactJS powered HTML5 Markdown editor.
+#### Github Readme Maker is a cloud-enabled, mobile-ready, offline-storage, ReactJS powered HTML5 Markdown editor.
 
     -> Type some Markdown on the left
     -> See HTML in the right
